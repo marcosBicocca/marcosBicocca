@@ -1,5 +1,5 @@
-# 👋 Hi, I’m tu nombre
-![My stats](https://github-readme-stats.vercel.app/api?username=tunombredeusuario&count_private=true&show_icons=true&theme=radical)
+# 👋 Hi, I’m Marcos Bicocca
+![My stats](https://github-readme-stats.vercel.app/api?username=marcosBicocca&count_private=true&show_icons=true&theme=radical)
 
 I am a QA tester.
 
