@@ -25,10 +25,9 @@
 </p>
 
  <h2> Gracias por visitar mi perfil!  </h2>                                                                                                                      
-<table style="width: 100%; text-align: center;">
-  <tr>
-    <td><h3 style="text-align: center;">Visitantes:</h3></td>
-    <td><img src="https://profile-counter.glitch.me/marcosBicocca/count.svg"></td>
-  </tr>
-</table>
- 
+<div align="center">
+
+### Visitantes:
+![Contador de visitas](https://profile-counter.glitch.me/marcosBicocca/count.svg)
+
+</div>
