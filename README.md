@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Marcos Bicocca
-![My stats](https://github-readme-stats.vercel.app/api?username=marcosBicocca&count_private=true&show_icons=true&theme=radical)
-
+<p align='center'>
+  ![My stats](https://github-readme-stats.vercel.app/api?username=marcosBicocca&count_private=true&show_icons=true&theme=radical)
+</p>
 I am a QA tester.
 
 ## 💪🏼 Skills
