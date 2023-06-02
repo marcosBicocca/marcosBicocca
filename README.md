@@ -8,8 +8,12 @@ I am a QA tester.
 - Postman
 - Agile methodology
 - Scrum
-- Database
+- DDBB
 - Git
 
 ## 👀 You can find me at:
-- Linkedin: [tuNombre](https://www.linkedin.com/in/tulinkedin/)
+  <a href="https://www.linkedin.com/in/marcos-bicocca-4b1059279/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+
