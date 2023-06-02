@@ -10,6 +10,8 @@
 </h2>
 
 ## 💪🏼 Habilidades
+- HTML
+- CSS <img src="ruta_de_la_imagen.jpg" alt="Descripción de la imagen" width="300">
 - Jira
 - Postman
 - Metodologías ágiles
